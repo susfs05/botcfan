@@ -2,15 +2,190 @@
 [
   {
     "id": "_meta",
-    "author": "",
-    "name": ""
+    "author": "Sus",
+    "name": "Missing Roles"
+  },
+  {
+    "id":"aslsaahir",
+    "name":"Alsaahir",
+    "team":"townsfolk",
+    "ability":"Each day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
+    "edition": "custom"
+
+  },
+  {
+    "id":"banshee",
+    "name":"Banshee",
+    "team":"townsfolk",
+    "ability":"If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
+    "edition":"custom"
+  },
+  {
+    "id":"high_priestess",
+    "name":"High Priestess",
+    "team": "townsfolk",
+    "ability":"Each night, learn which player the Storyteller believes you should talk to most.",
+    "edition":"custom"
+  },
+  {
+    "id":"knight",
+    "name":"Knight",
+    "team":"townsfolk",
+    "ability":"You start knowing 2 players that are not the Demon.",
+    "edition":"custom"
+  },
+  {
+    "id":"princess",
+    "name":"Princess",
+    "team":"townsfolk",
+    "ability":"On your 1st day, if you nominated & executed a player, the Demon doesn’t kill tonight.",
+    "edition":"custom"
+  },
+  {
+    "id":"shugenja",
+    "name":"Shugenja",
+    "team":"townsfolk",
+    "ability":"You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary.",
+    "edition":"custom"
+  },
+  {
+    "id":"steward",
+    "name":"Steward",
+    "team":"townsfolk",
+    "ability":"You start knowing 1 good player.",
+    "edition":"custom"
+  },
+  {
+    "id":"village_idiot",
+    "name":"Village Idiot",
+    "team":"townsfolk",
+    "ability":"Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]",
+    "edition":"custom"
+  },
+  {
+    "id":"hatter",
+    "name":"Hatter",
+    "team":"outsider",
+    "ability":"If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be.",
+    "edition":"custom"
+  },
+  {
+    "id":"hermit",
+    "name":"Hermit",
+    "team":"outsider",
+    "ability":"You have all Outsider abilities. [-0 or -1 Outsider]",
+    "edition":"custom"
+  },
+  {
+    "id":"hermit",
+    "name":"Hermit",
+    "team":"outsider",
+    "ability":"On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
+    "edition":"custom"
+  },
+  {
+    "id":"plague_doctor",
+    "name":"Plague Doctor",
+    "team":"outsider",
+    "ability":"When you die, the Storyteller gains a Minion ability.",
+    "edition":"custom"
+  },
+  {
+    "id":"qutler",
+    "name":"Qutler",
+    "team":"outsider",
+    "ability":"Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too.",
+    "edition":"custom"
+  },
+  {
+    "id":"zealot",
+    "name":"Zealot",
+    "team":"outsider",
+    "ability":"If there are 5 or more players alive, you must vote for every nomination.",
+    "edition":"custom"
+  },
+  {
+    "id":"boffin",
+    "name":"Boffin",
+    "team":"minion",
+    "ability":"The Demon (even if drunk or poisoned) has a not-in-play good character's ability. You both know which.",
+    "edition":"custom"
+  },
+  {
+    "id":"harpy",
+    "name":"Harpy",
+    "team":"minion",
+    "ability":"Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die.",
+    "edition":"custom"
   },
   {
   "id": "organ_grinder",
-  "image": "https://github.com/susfs05/botcfan/blob/main/acrobat.png?raw=true",
   "name": "Organ Grinder",
   "team": "minion",
   "ability": "All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk until dusk.",
   "edition": "custom"
+},
+{
+  "id":"summoner",
+  "name":"Summoner",
+  "team":"minion",
+  "ability":"You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+  "edition":"custom"
+},
+{
+  "id":"vizier",
+  "name":"Vizier",
+  "team":"minion",
+  "ability":"All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
+  "edition":"custom"
+},
+{
+  "id":"wizard",
+  "name":"Wizard",
+  "team":"minion",
+  "ability":"Once per game, choose to make a wish. If granted, it might have a price & leave a clue as to its nature.",
+  "edition":"custom"
+},
+{
+  "id":"wraith",
+  "name":"Wraith",
+  "team":"minion",
+  "ability":"You may choose to open your eyes at night. You wake when other evil players do.",
+  "edition":"custom"
+},
+{
+  "id":"xaan",
+  "name":"Xaan",
+  "team":"minion",
+  "ability":"On night X, all Townsfolk are poisoned until dusk. [X Outsiders]",
+  "edition":"custom"
+},
+{
+  "id":"kazali",
+  "name":"Kazali",
+  "team":"demon",
+  "ability":"Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]",
+  "edition":"custom"
+},
+{
+ "id":"lord_of_typhon",
+ "name":"Lord Of Typhon",
+ "team":"demon",
+ "ability":"Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? to +? Outsiders]",
+ "edition":"custom" 
+},
+{
+  "id":"ojo",
+  "name":"Ojo",
+  "team":"demon",
+  "ability":"Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies.",
+  "edition":"custom"
+},
+{
+  "id":"yaggababble",
+  "name":"Yaggababble",
+  "team":"demon",
+  "ability":"You start knowing a secret phrase. For each time you said it publicly today, a player might die.",
+  "edition":"custom"
 }
 ]
