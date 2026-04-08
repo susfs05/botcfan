@@ -56,7 +56,7 @@
   },
   {
     "id":"steward",
-    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_ogre.png?raw=true",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_steward.png?raw=true",
     "name":"Steward",
     "team":"townsfolk",
     "ability":"You start knowing 1 good player.",
