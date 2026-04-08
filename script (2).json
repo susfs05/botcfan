@@ -1,0 +1,23 @@
+[
+  {
+    "id": "acrobat",
+    
+    "edition": "custom",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 49,
+    "otherNightReminder": "If either good living neighbor is drunk or poisoned, the Acrobat dies.",
+    "reminders": ["Die"],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Acrobat",
+    "team": "outsider",
+    "ability": "Each night*, if either good living neighbor is drunk or poisoned, you die."
+  },
+  { 
+    "id": "investigator" 
+  },
+  { 
+    "id": "imp" 
+  }
+]
