@@ -16,6 +16,7 @@
   },
   {
     "id":"banshee",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_banshee.png?raw=true",
     "name":"Banshee",
     "team":"townsfolk",
     "ability":"If the Demon kills you, all players learn this. From now on, you may nominate twice per day and vote twice per nomination.",
@@ -23,6 +24,7 @@
   },
   {
     "id":"high_priestess",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_highpriestess.png?raw=true",
     "name":"High Priestess",
     "team": "townsfolk",
     "ability":"Each night, learn which player the Storyteller believes you should talk to most.",
@@ -30,6 +32,7 @@
   },
   {
     "id":"knight",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_knight.png?raw=true",
     "name":"Knight",
     "team":"townsfolk",
     "ability":"You start knowing 2 players that are not the Demon.",
@@ -37,6 +40,7 @@
   },
   {
     "id":"princess",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_princess.png?raw=true",
     "name":"Princess",
     "team":"townsfolk",
     "ability":"On your 1st day, if you nominated & executed a player, the Demon doesn’t kill tonight.",
@@ -44,6 +48,7 @@
   },
   {
     "id":"shugenja",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_shugenja.png?raw=true",
     "name":"Shugenja",
     "team":"townsfolk",
     "ability":"You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary.",
@@ -51,6 +56,7 @@
   },
   {
     "id":"steward",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_ogre.png?raw=true",
     "name":"Steward",
     "team":"townsfolk",
     "ability":"You start knowing 1 good player.",
@@ -58,6 +64,7 @@
   },
   {
     "id":"village_idiot",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_villageidiot.png?raw=true",
     "name":"Village Idiot",
     "team":"townsfolk",
     "ability":"Each night, choose a player: you learn their alignment. [+0 to +2 Village Idiots. 1 of the extras is drunk]",
@@ -65,6 +72,7 @@
   },
   {
     "id":"hatter",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_hatter.png?raw=true",
     "name":"Hatter",
     "team":"outsider",
     "ability":"If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be.",
@@ -72,20 +80,23 @@
   },
   {
     "id":"hermit",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_hermit.png?raw=true",
     "name":"Hermit",
     "team":"outsider",
     "ability":"You have all Outsider abilities. [-0 or -1 Outsider]",
     "edition":"custom"
   },
   {
-    "id":"hermit",
-    "name":"Hermit",
+    "id":"ogre",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_ogre.png?raw=true",
+    "name":"Ogre",
     "team":"outsider",
     "ability":"On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
     "edition":"custom"
   },
   {
     "id":"plague_doctor",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_plaguedoctor.png?raw=true",
     "name":"Plague Doctor",
     "team":"outsider",
     "ability":"When you die, the Storyteller gains a Minion ability.",
@@ -93,6 +104,7 @@
   },
   {
     "id":"qutler",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_qutler.png?raw=true",
     "name":"Qutler",
     "team":"outsider",
     "ability":"Each night, choose a player (not yourself): tomorrow, you may only vote if they are voting too.",
@@ -100,6 +112,7 @@
   },
   {
     "id":"zealot",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_zealot.png?raw=true",
     "name":"Zealot",
     "team":"outsider",
     "ability":"If there are 5 or more players alive, you must vote for every nomination.",
@@ -107,6 +120,7 @@
   },
   {
     "id":"boffin",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_boffin.png?raw=true",
     "name":"Boffin",
     "team":"minion",
     "ability":"The Demon (even if drunk or poisoned) has a not-in-play good character's ability. You both know which.",
@@ -114,6 +128,7 @@
   },
   {
     "id":"harpy",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_harpy.png?raw=true",
     "name":"Harpy",
     "team":"minion",
     "ability":"Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or one or both might die.",
@@ -121,6 +136,7 @@
   },
   {
   "id": "organ_grinder",
+  "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_organgrinder.png?raw=true",
   "name": "Organ Grinder",
   "team": "minion",
   "ability": "All players keep their eyes closed when voting and the vote tally is secret. Each night, choose if you are drunk until dusk.",
@@ -128,6 +144,7 @@
 },
 {
   "id":"summoner",
+  "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_summoner.png?raw=true",
   "name":"Summoner",
   "team":"minion",
   "ability":"You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
@@ -135,6 +152,7 @@
 },
 {
   "id":"vizier",
+  "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_vizier.png?raw=true",
   "name":"Vizier",
   "team":"minion",
   "ability":"All players know you are the Vizier. You cannot die during the day. If good voted, you may choose to execute immediately.",
@@ -142,6 +160,7 @@
 },
 {
   "id":"wizard",
+  "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_wizard.png?raw=true",
   "name":"Wizard",
   "team":"minion",
   "ability":"Once per game, choose to make a wish. If granted, it might have a price & leave a clue as to its nature.",
@@ -149,6 +168,7 @@
 },
 {
   "id":"wraith",
+  "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_wraith.png?raw=true",
   "name":"Wraith",
   "team":"minion",
   "ability":"You may choose to open your eyes at night. You wake when other evil players do.",
@@ -156,6 +176,7 @@
 },
 {
   "id":"xaan",
+  "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_xaan.png?raw=true",
   "name":"Xaan",
   "team":"minion",
   "ability":"On night X, all Townsfolk are poisoned until dusk. [X Outsiders]",
@@ -163,6 +184,7 @@
 },
 {
   "id":"kazali",
+  "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_kazali.png?raw=true",
   "name":"Kazali",
   "team":"demon",
   "ability":"Each night*, choose a player: they die. [You choose which players are which Minions. -? to +? Outsiders]",
@@ -170,6 +192,7 @@
 },
 {
  "id":"lord_of_typhon",
+ "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_lordoftyphon.png?raw=true",
  "name":"Lord Of Typhon",
  "team":"demon",
  "ability":"Each night*, choose a player: they die. [Evil characters are in a line. You are in the middle. +1 Minion. -? to +? Outsiders]",
@@ -177,6 +200,7 @@
 },
 {
   "id":"ojo",
+  "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_ojo.png?raw=true",
   "name":"Ojo",
   "team":"demon",
   "ability":"Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies.",
@@ -184,6 +208,7 @@
 },
 {
   "id":"yaggababble",
+  "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_yaggababble.png?raw=true",
   "name":"Yaggababble",
   "team":"demon",
   "ability":"You start knowing a secret phrase. For each time you said it publicly today, a player might die.",
