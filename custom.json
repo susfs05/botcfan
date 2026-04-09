@@ -19,6 +19,16 @@
     "ability":"Empiezas la partida escogiendo a dos jugadores que emparejar. Si muere uno, el otro también.",
     "edition":"custom",
     "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_ZZZC2.png?raw=true"
+  },
+  {
+    "id":"marrash",
+    "name":"Marrash",
+    "team":"townsfolk",
+    "ability":"Durante una pelea ocurrida por la mañana antes de las nominaciones (debe pelearse con alguien para usar la habilidad) puede lanzar un objeto y destapar el rol del jugador elegido",
+    "edition":"custom",
+    "image": "https://github.com/susfs05/botcfan/blob/main/icons/Icon_ZZZC3.png?raw=true"
+
+
   }
 
 
