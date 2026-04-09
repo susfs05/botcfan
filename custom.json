@@ -11,6 +11,14 @@
     "ability": "Todas las noches* puede matar a un jugador, pero si en las dos primeras noches escoge no matar a nadie, a la tercera puede bombardear el pueblo, dejando 2 jugadores vivos (aparte de él). Si mata a su esbirro, pierden la partida.",
     "edition":"custom",
     "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_ZC1.png?raw=true"
+  },
+  {
+    "id":"cupido",
+    "name":"Cupido",
+    "team":"outsider",
+    "ability":"Empiezas la partida escogiendo a dos jugadores que emparejar. Si muere uno, el otro también.",
+    "edition":"custom",
+    "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_ZZZC2.png?raw=true"
   }
 
 
