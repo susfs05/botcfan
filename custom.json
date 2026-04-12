@@ -37,14 +37,14 @@
     "ability":"Sabes qué demonio está en juego. Si eres nominado, cuenta como 1 voto extra en tu contra ya que el saber que demonio es, te hace sospechoso.",
     "edition":"custom",
     "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_ZZZC4.png?raw=true"
-
-
-
-
-
+},
+{
+  "id":"gitano",
+  "name":"Gitano",
+  "team":"demon",
+  "ability":"Cada noche, eliges a un jugador: muere. Sabes que Minion es tu primico. Si ese Minion muere, la próxima noche mueren 2 de los jugadores que votaron en su ejecución",
+  "edition":"custom",
+  "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_ZZZC5.png?raw=true"
 }
-
-
-
 
 ]
