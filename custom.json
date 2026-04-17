@@ -45,6 +45,17 @@
   "ability":"Cada noche, eliges a un jugador: muere. Sabes que Minion es tu primico. Si ese Minion muere, la próxima noche mueren 2 de los jugadores que votaron en su ejecución",
   "edition":"custom",
   "image":"https://github.com/susfs05/botcfan/blob/main/icons/Icon_ZZZC5.png?raw=true"
+},
+
+
+{
+"id": "paranoico",
+"name": "Paranoico",
+"team": "townsfolk",
+"ability": "Todas las noches* escoge a un jugador. Estás convencido (mad) de que el jugador es de alineación mala. Si el jugador es malo, no puedes morir durante la noche.",
+"edition":"custom",
+"image": ""
+
 }
 
 ]
